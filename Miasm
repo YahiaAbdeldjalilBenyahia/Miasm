@@ -1,4 +1,4 @@
-package miasmcompiler;
+package miasm;
 
 import java.util.*;
 
